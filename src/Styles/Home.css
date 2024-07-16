@@ -1,0 +1,58 @@
+.on-energy {
+    font-family: sans-serif;
+    position: relative;
+    top: 70px;
+    font-size: 20px;
+}
+
+.skills-img {
+    position: absolute;
+    top: 47%;
+    left: 28%;
+    width: 35%;
+}
+
+.near-beginer {
+    font-size: 16px;
+    margin-left: 0rem;
+    padding-left: 9px;
+    padding-right: 4px;
+    color: #B4B4B4;
+}
+
+.succ-stories {
+    font-size: 38px;
+    font-family: sans-serif;
+    color: #2F2A55;
+    font-weight: 700;
+    padding-top: 2rem;
+}
+
+.succ-story-content {
+    color: #7A7A7A;
+    font-size: 20px;
+    font-family: sans-serif;
+    word-spacing: 5px;
+    padding: 3px;
+}
+
+.succ-story-para {
+    color: #2F2A55;
+    font-family: sans-serif;
+    font-weight: 600;
+}
+
+.latest-news-img {
+    width: 8.5rem;
+    position: relative;
+    top: 1.5rem;
+    right: 8rem;
+}
+
+.footer-icon {
+    color: #1cb098;
+    font-size: 30px;
+    position: relative;
+    top: 2.7rem;
+    margin-left: 1rem;
+}
