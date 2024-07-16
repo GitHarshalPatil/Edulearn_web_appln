@@ -27,9 +27,9 @@ Currently, two official plugins are available:
 ## Screenshots😎
 
 <img src="https://github.com/user-attachments/assets/f2b47c20-03df-437b-bd0e-2596df65be69" width="400" height="250" />
-<img src="https://github.com/user-attachments/assets/2f1ae285-d3f9-4446-9be2-4bb759baa397" width="400" height="250" /> <img src="https://github.com/user-attachments/assets/c4a10ac8-501e-4855-83bc-5973562cd082" width="400" height="250" /> <img src="https://github.com/user-attachments/assets/d5788648-4589-47a1-a9d1-b17ed1466477" width="470" height="400" /> <img src="https://github.com/user-attachments/assets/46d069e0-4080-4dda-896e-3d0c6ce14dc7" width="400" height="250" /> 
+<img src="https://github.com/user-attachments/assets/2f1ae285-d3f9-4446-9be2-4bb759baa397" width="400" height="250" /> <img src="https://github.com/user-attachments/assets/c4a10ac8-501e-4855-83bc-5973562cd082" width="400" height="250" /> <img src="https://github.com/user-attachments/assets/d5788648-4589-47a1-a9d1-b17ed1466477" width="470" height="250" /> <img src="https://github.com/user-attachments/assets/46d069e0-4080-4dda-896e-3d0c6ce14dc7" width="400" height="250" /> 
 <img src="https://github.com/user-attachments/assets/c95e8bad-4c93-4dd2-8335-d3072f1a7c73" width="400" height="250" />
-<img src="https://github.com/user-attachments/assets/3f8bf424-6598-4b0a-a6ef-abaa37b78266" width="100" /><img src="https://github.com/user-attachments/assets/769088e0-0dd4-4f67-a365-b455aba221db" width="520" height="250" />
+<img src="https://github.com/user-attachments/assets/3f8bf424-6598-4b0a-a6ef-abaa37b78266" width="200" /><img src="https://github.com/user-attachments/assets/769088e0-0dd4-4f67-a365-b455aba221db" width="520" height="250" />
 <img src="https://github.com/user-attachments/assets/9129f6d5-907c-49b6-90b7-169227159471" width="500" height="190" />
 
  
